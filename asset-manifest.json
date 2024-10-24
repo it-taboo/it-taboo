@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/it-taboo/static/css/main.885e41ea.chunk.css",
+    "main.js": "/it-taboo/static/js/main.1fb0b06c.chunk.js",
+    "main.js.map": "/it-taboo/static/js/main.1fb0b06c.chunk.js.map",
+    "runtime-main.js": "/it-taboo/static/js/runtime-main.7b8062bc.js",
+    "runtime-main.js.map": "/it-taboo/static/js/runtime-main.7b8062bc.js.map",
+    "static/js/2.5f0d7a41.chunk.js": "/it-taboo/static/js/2.5f0d7a41.chunk.js",
+    "static/js/2.5f0d7a41.chunk.js.map": "/it-taboo/static/js/2.5f0d7a41.chunk.js.map",
+    "index.html": "/it-taboo/index.html",
+    "static/css/main.885e41ea.chunk.css.map": "/it-taboo/static/css/main.885e41ea.chunk.css.map",
+    "static/js/2.5f0d7a41.chunk.js.LICENSE.txt": "/it-taboo/static/js/2.5f0d7a41.chunk.js.LICENSE.txt",
+    "static/media/mainpage.css": "/it-taboo/static/media/paper-bg.6a8be12d.webp",
+    "static/media/ttt.css": "/it-taboo/static/media/Futura PT.79275407.ttf",
+    "static/media/calc.css": "/it-taboo/static/media/MrDafoe-Regular.7cb484b7.ttf",
+    "static/media/dog3.f8dcb98c.png": "/it-taboo/static/media/dog3.f8dcb98c.png",
+    "static/media/normal_mc_poor_body.67189bc1.png": "/it-taboo/static/media/normal_mc_poor_body.67189bc1.png",
+    "static/media/normal_sultan_home_body.df0b4590.png": "/it-taboo/static/media/normal_sultan_home_body.df0b4590.png",
+    "static/media/normal_sultan_home_cape_body.1025c324.png": "/it-taboo/static/media/normal_sultan_home_cape_body.1025c324.png",
+    "static/media/sad_mc_poor_body.3d7ecb46.png": "/it-taboo/static/media/sad_mc_poor_body.3d7ecb46.png",
+    "static/media/scared_mc_poor_body.f7030764.png": "/it-taboo/static/media/scared_mc_poor_body.f7030764.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b8062bc.js",
+    "static/js/2.5f0d7a41.chunk.js",
+    "static/css/main.885e41ea.chunk.css",
+    "static/js/main.1fb0b06c.chunk.js"
+  ]
+}
